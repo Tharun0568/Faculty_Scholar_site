@@ -14,8 +14,6 @@ The Faculty Performance Management System is a comprehensive web application des
 
 4. **View Scores**: Administrators, HODs, and staff members can access a dedicated page to view the performance scores of all staff members. This page presents a comprehensive overview of each staff member's performance, including their total points earned across various metrics.
 
-5. **Responsive Design**: The application features a responsive design that ensures optimal viewing and interaction experiences across a wide range of devices, including desktops, laptops, tablets, and smartphones. This responsiveness enhances accessibility and usability, allowing users to access the system conveniently from any device.
-
 ## Project Structure
 The project follows a modular structure, with distinct components responsible for different functionalities:
 
