@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Result</title>
+    <link href="{{ url_for('static', filename='staff_result.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="alert">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="alert alert-{{ category }}" id="alert">
+            {{ message }}
+        </div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+    </div>
+    <div class="staff-result-container">
+        <a class="logout-button" href="{{ url_for('logout') }}">Logout</a>
+        <h1 class="staff-result-heading">Welcome, {{ username }}</h1>
+        <p class="staff-result-points">Your total points: {{ total_points }}</p>
+
+    </div>
+</body>
+
+</html>

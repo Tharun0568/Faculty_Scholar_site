@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Total Points</title>
+    <link href="{{ url_for('static', filename='staff_result.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+    <main>
+
+        <div class="staff-result-container">
+            <h1 class="staff-result-heading">Total Points</h1>
+            <p class="staff-result-points">The total points calculated are: {{ total_points }}</p>
+            <a href="{{ url_for('categories') }}" class="back-button">Back to Categories</a>
+        </div>
+    </main>
+</body>
+
+</html>

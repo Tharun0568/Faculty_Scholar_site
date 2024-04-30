@@ -1,0 +1,120 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    /* Removed overflow: hidden; */
+}
+
+
+
+main {
+    padding: 20px;
+    position: relative;
+}
+
+.welcome-message {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.logout-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logout-button:hover {
+    background-color: darkred;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.department-header {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.department-header h1 {
+    margin: 0;
+}
+
+.category {
+    width: 300px;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0 50px 50px;
+    transition: transform 0.6s ease;
+}
+
+.category:hover,
+.category:active {
+    transform: translateY(-10px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.category h2 {
+    margin-top: 0;
+    color: #ac2c2c;
+}
+
+.category p {
+    color: #000000;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.button-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000; 
+}
+
+
+.view-scores-button,
+.calculate-marks-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+}
+
+.view-scores-button:hover,
+.calculate-marks-button:hover {
+    background-color: #0056b3;
+}

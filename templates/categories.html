@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories</title>
+    <link href="{{ url_for('static', filename='categories.css') }}" rel="stylesheet" />
+</head>
+
+<body>
+    <main>
+        <div class="background-image"></div>
+        <div class="welcome-message" id="welcomeMessage">Welcome, {{ username }}</div>
+        <a class="logout-button" href="{{ url_for('logout') }}">Logout</a>
+
+        <div class="categories">
+            <div class="category" id="academics">
+                <h2>Academics</h2>
+                <p>Explore academic resources and courses.</p>
+
+            </div>
+
+            <div class="category" id="self-development">
+                <h2>Self Development</h2>
+                <p>Discover tools for personal growth and improvement.</p>
+            </div>
+            <div class="category" id="research">
+                <h2>Research</h2>
+                <p>Access research papers and scholarly articles.</p>
+            </div>
+            <div class="category" id="contribution">
+                <h2>Contribution to the College</h2>
+                <p>Get involved in campus activities and community service.</p>
+            </div>
+        </div>
+
+
+        <div class="button-container">
+            <a href="{{ url_for('view_scores') }}" class="view-scores-button">View Scores</a>
+            <a href="/academics" class="calculate-marks-button">Calculate</a>
+        </div>
+
+
+    </main>
+</body>
+
+</html>
