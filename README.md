@@ -1,7 +1,5 @@
 # Faculty_Scholar_site
 
-# Faculty Performance Management System
-
 ## Overview
 The Faculty Performance Management System is a comprehensive web application designed to facilitate the evaluation and management of faculty members' performance in an academic institution. This system streamlines the process of collecting, analyzing, and storing performance data, providing administrators, heads of departments (HODs), and staff members with a centralized platform for performance assessment.
 
