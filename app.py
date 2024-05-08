@@ -42,7 +42,9 @@ def init_staff_db():
 @app.route('/')
 def login():
     return render_template('login.html')
-
+@app.route('/chat')
+def Chat():
+    return render_template('chat.html')
 # Route for handling login form submission
 @app.route('/login', methods=['POST'])
 def login_submit():
