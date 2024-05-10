@@ -34,6 +34,19 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.chat-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 100px;
+    
+}
 .logout-btn {
     position: fixed;
     top: 20px;
@@ -44,12 +57,16 @@ main {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    margin-left: 50px ;
+    
 }
 
 .logout-btn:hover {
     background-color: darkred;
 }
-
+.chat-btn:hover {
+    background-color: darkred;
+}
 .dashboard-items {
     display: flex;
     flex-wrap: wrap;

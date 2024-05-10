@@ -21,6 +21,7 @@
         {% endwith %}
     </div>
     <div class="staff-result-container">
+        <a class="chat-btn" href="{{ url_for('Chat') }}">chat</a>
         <a class="logout-button" href="{{ url_for('logout') }}">Logout</a>
         <h1 class="staff-result-heading">Welcome, {{ username }}</h1>
         <p class="staff-result-points">Your total points: {{ total_points }}</p>

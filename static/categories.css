@@ -29,17 +29,31 @@ main {
     top: 20px;
     right: 20px;
     background-color: red;
-    color: white;
+    color:white;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
 }
+.chat-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 100px;
+}
 
 .logout-button:hover {
     background-color: darkred;
 }
-
+.chat-btn:hover {
+    background-color: darkred;
+}
 .categories {
     display: flex;
     flex-wrap: wrap;

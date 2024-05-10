@@ -12,6 +12,7 @@
     <main>
         <div class="background-image"></div>
         <div class="welcome-message" id="welcomeMessage">Welcome, {{ username }}</div>
+        <a class="chat-btn" href="{{ url_for('Chat') }}">chat</a>
         <a class="logout-button" href="{{ url_for('logout') }}">Logout</a>
 
         <div class="categories">
