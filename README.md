@@ -75,6 +75,17 @@ The Faculty Performance Management System leverages the following technologies a
 ![Screenshot 2024-05-13 125309](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/eb5bcc47-661b-4e0a-862a-731e97b07d1c)
 ![Screenshot 2024-05-13 125350](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/12d5cd2b-7e97-48d1-a691-721ca44ad60a)
 ![Screenshot 2024-05-13 125501](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/ee765993-f3e8-4ae8-9702-026f76a20e53)
-
-
-
+![Screenshot 2024-05-13 123714](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/f5219668-fd4a-4d90-a17d-442164da7731)
+![Screenshot 2024-05-13 123736](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/e55bec4a-bc08-4cd8-9f6b-f7eba2d16126)
+![Screenshot 2024-05-13 123748](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/49b06c6c-c56d-4ac9-8fb7-96f14198ddda)
+![Screenshot 2024-05-13 123807](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/54268272-69be-4a2e-a09c-b65f7721f530)
+![Screenshot 2024-05-13 123826](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/0cbb7d1e-e0f5-4443-92ab-7b578dd4dda7)
+![Screenshot 2024-05-13 123912](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/bcbee93a-4f39-4746-9ec5-510b0e3750bb)
+![Screenshot 2024-05-13 123923](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/26e61bb6-b98f-41cb-bb4d-144e1cde69b7)
+![Screenshot 2024-05-13 124014](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/f71a4613-50dc-4b92-9b00-caeefac68f9a)
+![Screenshot 2024-05-13 124024](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/ff01da54-2911-4220-bda5-32c2d3722641)
+![Screenshot 2024-05-13 124036](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/514c4f3e-9f56-4fe5-b4aa-bc0d20536cf7)
+![Screenshot 2024-05-13 124211](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/cf1508ae-0819-487a-8114-9dfe6ac11cb8)
+![Screenshot 2024-05-13 124219](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/7ac7240e-eeaf-43c8-abf9-270f3b95bee4)
+![Screenshot 2024-05-13 124451](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/77625f53-a5bb-46a7-bec6-cc2c44d395d9)
+![Screenshot 2024-05-13 124709](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/7587200d-d77b-4381-aa0a-782956971e26)
