@@ -67,7 +67,21 @@ The Faculty Performance Management System leverages the following technologies a
 - **Jinja2**: Jinja2 is a powerful and flexible template engine for Python, used in conjunction with Flask to generate dynamic HTML content based on data and logic from the backend.
 
 
-https://youtu.be/iHGyMR029wI
+
+
+
+
+
+Demo Video Link:- https://youtu.be/iHGyMR029wI
+
+
+
+
+
+
+
+
+
 
 ![Screenshot 2024-05-13 125111](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/5d9cc13a-7e89-49d4-9187-bf63ebd1e9a9)
 ![Screenshot 2024-05-13 125139](https://github.com/Tharun0568/Faculty_Scholar_site/assets/104981195/c0877c9c-8319-44de-88a3-42dbfa399dcc)
