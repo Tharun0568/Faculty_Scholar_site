@@ -3,6 +3,13 @@
 ## Overview
 The Faculty Performance Management System is a comprehensive web application designed to facilitate the evaluation and management of faculty members' performance in an academic institution. This system streamlines the process of collecting, analyzing, and storing performance data, providing administrators, heads of departments (HODs), and staff members with a centralized platform for performance assessment.
 
+## Contribution
+Frontend Team (Tharun G): Responsible for designing and implementing the user interface using HTML, CSS, and JavaScript. They focus on creating an intuitive and user-friendly experience for accessing and managing faculty performance.
+
+Backend Team (Tharun G ): Tasked with developing the server-side logic and database management. This includes handling data storage, retrieval, and processing. Security and compliance with healthcare regulations may also fall under their responsibility.
+
+Cloud Engineer ( Mani Bharathi): Manages the deployment and scaling of the application on Azure cloud infrastructure. They ensure the application runs smoothly, efficiently utilizes resources, and stays highly available. They may also be involved in setting up monitoring and automation processes using Azure Monitor and other relevant tools.
+
 ### Key Features
 1. **User Authentication**: The system offers secure user authentication mechanisms to ensure that only authorized personnel can access and interact with the application. Different user roles, such as administrators, HODs, and staff members, have distinct privileges and access levels within the system.
 
