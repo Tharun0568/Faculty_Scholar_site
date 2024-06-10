@@ -78,7 +78,7 @@ The Faculty Performance Management System leverages the following technologies a
 
 
 
-## Live link :- facultyportal.azurewebsites.net
+## Live link :- https://facultyportal.azurewebsites.net
 ## Demo Video Link:- https://youtu.be/keJW5uMonHQ
 
 
