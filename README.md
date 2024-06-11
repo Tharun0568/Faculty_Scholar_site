@@ -20,7 +20,7 @@ Password: 12345
 ## Note 
 Ensure the incorporation of different user credentials, like those for the head of department and staff, with distinct usernames, to maintain project integrity and access control.
 
-### Key Features
+## Key Features
 1. **User Authentication**: The system offers secure user authentication mechanisms to ensure that only authorized personnel can access and interact with the application. Different user roles, such as administrators, HODs, and staff members, have distinct privileges and access levels within the system.
 
 2. **Performance Evaluation Form**: Staff members can input their performance data through a comprehensive evaluation form. The form includes fields for various performance metrics, such as academic results, student feedback, innovation in teaching, research activities, contribution to the college, attendance, guest lectures delivered, certifications obtained, placements arranged, and more.
