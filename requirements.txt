@@ -1,1 +1,8 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+Flask-Session==0.4.0
+Flask-WTF==1.0.1
+sqlite==3.36.0
+openai==0.10.2
+python-dotenv==1.0.0
 
