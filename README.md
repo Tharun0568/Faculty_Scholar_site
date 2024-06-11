@@ -10,6 +10,10 @@ Backend Team (Tharun G ): Tasked with developing the server-side logic and datab
 
 Cloud Engineer ( Mani Bharathi): Manages the deployment and scaling of the application on Azure cloud infrastructure. They ensure the application runs smoothly, efficiently utilizes resources, and stays highly available. They may also be involved in setting up monitoring and automation processes using Azure Monitor and other relevant tools.
 
+## Note 
+
+Ensure the incorporation of different user credentials, like those for the head of department and staff, with distinct usernames, to maintain project integrity and access control.
+
 ### Key Features
 1. **User Authentication**: The system offers secure user authentication mechanisms to ensure that only authorized personnel can access and interact with the application. Different user roles, such as administrators, HODs, and staff members, have distinct privileges and access levels within the system.
 
