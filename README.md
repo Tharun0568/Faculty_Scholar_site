@@ -12,7 +12,9 @@ Cloud Engineer ( Mani Bharathi): Manages the deployment and scaling of the appli
 
 ## Admin Portal Credentials
 To access the admin portal, please use the following credentials:
+
 Username: admin
+
 Password: 12345
 
 ## Note 
